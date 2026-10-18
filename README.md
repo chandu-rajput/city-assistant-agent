@@ -6,7 +6,7 @@ Built using **LangChain, Mistral AI, OpenWeather API, Tavily API, and Streamlit*
 
 ## 🖥️ UI Preview
 
-![CityPulse Agent UI](assets/screenshot.png)
+![CityPulse Agent UI](assets)
 
 ## ✨ Features
 
